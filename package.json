@@ -11,10 +11,14 @@
     "typecheck": "tsc"
   },
   "dependencies": {
+    "@nextui-org/react": "^2.6.8",
+    "@prisma/client": "^6.0.1",
     "@remix-run/node": "^2.15.1",
     "@remix-run/react": "^2.15.1",
     "@remix-run/serve": "^2.15.1",
+    "framer-motion": "^11.14.4",
     "isbot": "^4.1.0",
+    "prisma": "^6.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
